@@ -127,5 +127,3 @@ class BTree:
         else:
             node.c = replace
         return True
-
-    def treeRemove(self, key):
